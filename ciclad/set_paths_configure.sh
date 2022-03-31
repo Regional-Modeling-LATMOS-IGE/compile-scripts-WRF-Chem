@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# simpile configure script to run interactively on ciclad
-
 # To use: 
 # source this_script.sh
 # Select ifort+icc(dmpar), and basic nesting
