@@ -1,4 +1,4 @@
-# To compile 
+# Instructions for compiling
 
 First execcute 
 > bash set_paths_configure.sh
