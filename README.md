@@ -22,3 +22,7 @@ CALL wrf_debug ( 0, TRIM( wrf_err_message ) )
 ~~~~
 
 Recompile your code with this change and then you should be able to use more processors for your future runs. 
+
+## Dust boundary conditions
+
+Remember to check there is a substraction in the dust mozbc files to avoid having unrealistic dust concentrations 
